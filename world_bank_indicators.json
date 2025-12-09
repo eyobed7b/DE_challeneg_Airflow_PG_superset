@@ -1,0 +1,3056 @@
+[
+    {
+        "Country Code": "AFE",
+        "Country Name": "Africa Eastern and Southern",
+        "Indicators": [
+            {
+                "Indicator Code": "AG.AGR.TRAC.NO",
+                "Indicator Name": "Agricultural machinery, tractors",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "169776"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "176648"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "180067"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "185072"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "191771"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "198700"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "206634"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "209857"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "218173"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "226485"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "225275"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "222500"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "221802"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "224191"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "226115"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "232623"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "233046"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "231107"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "231204"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "230369"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "232659"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "230916"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "229950"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "230212"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "229514"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "229172"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "219713"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.CON.FERT.PT.ZS",
+                "Indicator Name": "Fertilizer consumption (% of fertilizer production)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "158.8290846"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "146.9896158"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "146.7033234"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "170.1542366"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "167.4983877"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "157.5221653"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "119.5641051"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "132.3983068"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "105.9545965"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "116.0965644"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "122.4407865"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "123.4233706"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "124.9584711"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "124.9116491"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "124.1976414"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "122.9016231"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "118.1526845"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "115.8393685"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "120.8541837"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "130.7248074"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "143.4738472"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "154.6751843"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "125.9258059"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "108.8185043"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "119.0215088"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "121.6033377"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "122.2866938"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "115.2144229"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "119.9264279"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "112.846804"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "115.999609"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "107.49059"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "121.7799793"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "118.8584972"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "107.0049277"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "106.9594452"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "104.3773859"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "110.7209352"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "110.1388524"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "140.0331944"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "153.2120523"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "150.1821594"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "135.9266348"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "157.6005569"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "152.6437913"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "220.7287863"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "185.1838582"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "221.7102075"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "239.9070492"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "211.6225553"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "252.6512512"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "221.6651814"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "587.2844292"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "503.2294342"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "655.4564263"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "707.7327156"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "751.8370026"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "650.5610682"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "669.6948712"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "695.9155126"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.CON.FERT.ZS",
+                "Indicator Name": "Fertilizer consumption (kilograms per hectare of arable land)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "14.09136021"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "14.79546687"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "15.32433213"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "17.02872705"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "19.36531653"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "20.76910866"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "21.1257828"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "21.66469463"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "21.82860322"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "22.64916746"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "23.90013215"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "24.42015622"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "29.53288526"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "33.09394472"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "32.83868235"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "27.24527796"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "25.74983164"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "24.67609961"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "23.17001971"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "21.6132499"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "23.64656426"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "22.40810001"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "22.04909427"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "21.70355215"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "20.72366712"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "20.69720949"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "19.73835833"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "19.25196485"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "22.01971988"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "22.35458713"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "20.34571457"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "20.36531098"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "19.48354321"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "19.61580419"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "23.38857247"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "18.67797971"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "19.20921064"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "17.07384364"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "19.84238411"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "20.42336911"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "20.49350461"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "19.29406116"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "20.38384154"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "21.26688076"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "19.06365783"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "19.51006155"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "20.49589117"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "19.81520221"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "21.82177402"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "25.064483"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "23.19285078"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "23.79965257"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "24.73526634"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.AGRI.K2",
+                "Indicator Name": "Agricultural land (sq. km)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "6170422.2"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "6168162.2"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "6173452.2"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "6170802.2"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "6168292.2"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "6172092.2"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "6174062.2"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "6178902.2"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "6186282.2"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "6196872.2"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "6212912.2"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "6219282.2"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "6220302.2"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "6222242.2"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "6227082.2"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "6230302.2"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "6232202.2"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "6243972.2"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "6240372.2"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "6239652.2"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "6251452.2"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "6253012.2"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "6257792.2"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "6258302.2"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "6300432.2"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "6338572.2"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "6362592.2"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "6398772.2"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "6429932.2"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "6422792.1"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "6437086.27"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "6464640.44"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "6324814.61"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "6353558.78"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "6380432.95"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "6402907.12"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "6425601.39"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "6446225.56"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "6477639.73"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "6500933.9"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "6521424.37"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "6541506.84"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "6589093.31"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "6620169.58"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "6646197.25"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "6675292.72"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "6699446.99"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "6723686.56"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "6763004.83"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "6794743.8"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "6824989.9"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "6441140.365"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "6461235.65"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "6483468.675"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "6498087.9"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "6517235.025"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "6538552.75"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "6556857.12"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "6560796.62"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "6568777.12"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.AGRI.ZS",
+                "Indicator Name": "Agricultural land (% of land area)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "42.34550456"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "42.32999495"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "42.36629841"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "42.34811237"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "42.33088709"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "42.3569652"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "42.37048464"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "42.40369991"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "42.45434633"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "42.52702189"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "42.63709895"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "42.68081408"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "42.687814"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "42.70112756"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "42.73434283"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "42.75644059"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "42.76947964"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "42.85025314"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "42.82554757"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "42.82060645"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "42.90158583"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "42.91229158"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "42.94509509"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "42.94859505"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "43.23771888"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "43.4994607"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "43.66430177"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "43.91259278"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "44.12643324"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "44.07743317"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "44.17552918"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "44.36462406"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "43.40504705"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "43.60230849"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "43.78673676"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "43.94096933"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "44.09671237"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "44.23824902"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "44.45383376"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "44.61369371"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "44.75431282"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "44.89213197"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "45.21870169"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "44.97339481"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "45.15007238"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "45.3477528"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "45.51169827"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "45.6764834"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "45.94348581"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "46.15694329"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "46.36151491"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "43.38879449"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "43.52427118"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "43.67417547"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "43.77249579"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "43.90145169"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "44.04508768"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "44.16834493"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "44.19484571"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "44.24872113"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.ARBL.HA",
+                "Indicator Name": "Arable land (hectares)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.ARBL.HA.PC",
+                "Indicator Name": "Arable land (hectares per person)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "0.470616363"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "0.459786451"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "0.460257674"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "0.453665974"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "0.443934307"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "0.433791085"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "0.42290418"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "0.414237011"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "0.406520145"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "0.403439746"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "0.39508715"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "0.387088365"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "0.376580343"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "0.367234583"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "0.360260577"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "0.351304776"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "0.340594543"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "0.336699642"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "0.323360784"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "0.312716844"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "0.304733819"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "0.297478972"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "0.291475525"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "0.284833562"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "0.287060788"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "0.281352963"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "0.274154932"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "0.268623666"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "0.265240162"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "0.257053933"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "0.251466684"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "0.246816638"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "0.232379514"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "0.227177482"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "0.22187374"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "0.216528192"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "0.212101105"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "0.20641789"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "0.203993354"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "0.199270086"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "0.19474822"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "0.192262398"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "0.192205157"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "0.192881048"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "0.191423941"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "0.18887626"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "0.186476417"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "0.185516824"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "0.187129232"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "0.186606938"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "0.187329149"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "0.210967376"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "0.206579427"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "0.202698748"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "0.197970354"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "0.194190885"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "0.191089372"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "0.187474644"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "0.182680137"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "0.178557397"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.ARBL.ZS",
+                "Indicator Name": "Arable land (% of land area)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "4.702843083"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "4.754587533"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "4.866723384"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "4.918673714"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "4.972682842"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "5.002260903"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "5.025388065"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "5.066975779"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "5.128602459"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "5.211160249"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "5.263453711"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "5.314786402"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "5.326178416"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "5.346560514"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "5.391648185"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "5.413334188"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "5.416216505"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "5.494862579"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "5.471941297"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "5.463774733"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "5.466176664"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "5.473313829"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "5.499529187"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "5.504058542"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "5.648037132"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "5.678850472"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "5.682968067"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "5.709457932"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "5.762300407"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "5.744457493"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "5.758731825"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "5.78741774"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "5.922063113"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "5.964886106"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "6.055473207"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "6.102619676"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "6.121766495"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "6.104335341"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "6.163903223"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "6.16273657"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "6.184587277"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "6.259431438"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "6.496879446"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "6.585035514"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "6.73485122"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "6.805821777"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "6.916873653"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "7.045072764"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "7.291427074"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "7.434979913"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "7.625402114"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "7.852112262"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "7.902579271"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "7.969327476"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "8.001533632"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "8.062898451"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "8.144832941"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "8.205574806"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "8.210892995"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "8.240550733"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.CREL.HA",
+                "Indicator Name": "Land under cereal production (hectares)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "24829776"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "25301332"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "25898736"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "25855980"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "26446153"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "26873816"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "28856437"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "28397873"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "29720296"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "29679450"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "30611798"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "31051898"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "29296100"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "30884583"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "30306267"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "31564774"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "31042701"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "31098385"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "29514253"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "30733465"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "31593779"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "30848074"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "31550765"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "31653964"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "34769509"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "35861220"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "33696037"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "38034372"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "35175877"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "31686545"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "33758476"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "34599716"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "33828963"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "40227749"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "36951542"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "40243468"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "41668796"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "39191752"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "37096606"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "36921388"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "38616891"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "38530624"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "44240919"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "40312846"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "49244499"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "43741561"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "43994889"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "46467187"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "46878576"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "48144326"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "50561610"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "46392895"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "52431060"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "55105359"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "49429973"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "55480083"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "53735654"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "55112917"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "52178855"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "54523607"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": "55605836"
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.CROP.ZS",
+                "Indicator Name": "Permanent cropland (% of land area)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": "0.335035021"
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": "0.351848536"
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": "0.358711195"
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": "0.378063894"
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": "0.386985351"
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": "0.395495049"
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": "0.404759638"
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": "0.415053627"
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": "0.42164178"
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": "0.428229933"
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": "0.434543579"
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": "0.439621947"
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": "0.448612031"
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": "0.45547469"
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": "0.469405888"
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": "0.478190092"
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": "0.485601764"
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": "0.490268372"
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": "0.49150365"
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": "0.498846696"
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": "0.505915235"
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": "0.510101457"
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": "0.514836692"
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": "0.518062142"
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": "0.521493471"
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": "0.52554244"
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": "0.529454156"
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": "0.531101194"
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": "0.535630549"
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "0.546336297"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": "0.550865652"
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": "0.551071532"
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": "0.543591234"
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": "0.540983423"
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": "0.530826688"
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": "0.5378266"
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": "0.539610891"
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": "0.554502862"
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": "0.552444064"
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "0.557042046"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": "0.56520861"
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": "0.564316464"
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": "0.579894701"
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": "0.576758824"
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": "0.578489363"
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": "0.582667595"
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": "0.599785004"
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": "0.593516264"
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": "0.606952212"
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": "0.645576233"
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": "0.649824877"
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": "0.65368466"
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": "0.679158648"
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": "0.710908672"
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "0.725853756"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": "0.735412052"
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": "0.74610975"
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": "0.758975146"
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": "0.780186817"
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": "0.804311283"
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.EL5M.RU.K2",
+                "Indicator Name": "Rural land area where elevation is below 5 meters (sq. km)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "36913.22268"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "36830.47422"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "36661.77984"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            },
+            {
+                "Indicator Code": "AG.LND.EL5M.RU.ZS",
+                "Indicator Name": "Rural land area where elevation is below 5 meters (% of total land area)",
+                "Years": [
+                    {
+                        "Year": "1960",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1961",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1962",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1963",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1964",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1965",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1966",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1967",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1968",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1969",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1970",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1971",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1972",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1973",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1974",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1975",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1976",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1977",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1978",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1979",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1980",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1981",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1982",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1983",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1984",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1985",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1986",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1987",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1988",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1989",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1990",
+                        "Indicator Value for Year": "0.245478118"
+                    },
+                    {
+                        "Year": "1991",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1992",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1993",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1994",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1995",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1996",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1997",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1998",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "1999",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2000",
+                        "Indicator Value for Year": "0.253737314"
+                    },
+                    {
+                        "Year": "2001",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2002",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2003",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2004",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2005",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2006",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2007",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2008",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2009",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2010",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2011",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2012",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2013",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2014",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2015",
+                        "Indicator Value for Year": "0.246842402"
+                    },
+                    {
+                        "Year": "2016",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2017",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2018",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2019",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2020",
+                        "Indicator Value for Year": ""
+                    },
+                    {
+                        "Year": "2021",
+                        "Indicator Value for Year": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
