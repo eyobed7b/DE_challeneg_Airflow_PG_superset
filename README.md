@@ -1,5 +1,4 @@
-![ETL architectural design  ](images/diagram.png)
- ![ETL Airflow DAG   ](images/airflowImage.png)  ![ETL Airflow DAG   ](images/chart.png) 
+
 
 # 🚀 Data Challenge ETL Pipeline
 This project implements a robust, automated Extract, Transform, Load (ETL) pipeline using Apache Airflow for orchestration, PostgreSQL for data warehousing (DW), and Apache Superset for analytical reporting.
@@ -70,3 +69,6 @@ This pipeline follows a modular, dependency-driven architecture.
 For a comprehensive, step-by-step breakdown of the design decisions, transformation logic, and missing value strategies, please refer to the attached detailed analysis document:
 
      [ETL Pipeline Analysis and Implementation Summary.pdf]
+![ETL architectural design  ](images/diagram.png)
+![ETL Airflow DAG   ](images/airflowImage.png) 
+![ETL Airflow DAG   ](images/chart.jpg) 
